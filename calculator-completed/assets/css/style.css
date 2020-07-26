@@ -1,0 +1,61 @@
+body {
+    background-color: #222831 !important;
+    
+}
+
+.heading {
+    font-size: 2.2rem;
+    font-family: 'Epilogue', sans-serif;
+    margin: 0 0;
+    margin-top: 0.5rem;
+    color: rgb(155, 238, 21);
+    padding: 0px 0px;
+    font-weight: bold;
+}
+
+
+
+#display {
+    height: 4rem !important;
+    margin: 2rem 0rem;
+    color: black;
+    text-align: right;
+    font-size: 2rem;
+}
+.btn-group {
+    margin: 0px 0px;
+
+}
+
+.btn {
+    padding: 0px !important;
+    background:linear-gradient(rgb(255, 255, 255),rgb(148, 146, 148)) !important;
+    height:3rem;
+    width:3rem;
+    margin: 1rem 5px;
+    border-radius: 8px !important;
+    font-size: 1.5rem !important;
+    font-weight: 500 !important;
+}
+
+
+.btn:active {
+    background:linear-gradient(rgb(148, 146, 148),rgb(255, 255, 255)) !important;
+}
+
+.btn:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+
+
+.footer {
+    color: white;
+    text-align: center;
+    font-family: 'Epilogue', sans-serif;
+}
+#Layer_1 {
+    margin-bottom: 1rem;
+}
+
